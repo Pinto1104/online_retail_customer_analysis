@@ -1,4 +1,4 @@
-# :shopping_cart: online_retail_customer_analysis
+# :shopping_cart: Online Retail Customer Analysis
 An end-to-end customer retention analysis project using online retail transaction data, from data cleaning and RFM segmentation to actionable insights and dashboard visualization.
 
 ## 👀 Project Overview
